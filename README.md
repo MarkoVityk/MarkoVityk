@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hello!
 
-<!--
-**MarkoVityk/MarkoVityk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Marko Vityk.  
+I am 12 (as of 2025)
 
-Here are some ideas to get you started:
+I am currently trying out cs50, and maybe after cs50, I might try learning c#  
+My website is <https://marko.win>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*i have no idea how to use markdown so... hope this works*
+
+### Progress on coding languages I know:
+
+- HTML: 100%
+- CSS: 50%
+- JavaScript: -10000000%
+- Python: 25%
+- C: 25%
+
+#### A couple projects I have made
+
+- A website with a bunch of games I did not steal at all [link](https://github.com/MarkoVityk/markovityk.github.io)
