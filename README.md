@@ -1,7 +1,7 @@
 ## Hello!
 
 My name is Marko Vityk.  
-I am 12 (as of 2025)
+I am 13
 
 I am currently trying out cs50, and maybe after cs50, I might try learning c#  
 My website is <https://marko.win>  
