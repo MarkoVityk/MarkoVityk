@@ -3,7 +3,7 @@
 My name is Marko Vityk.  
 I am 13
 
-I am currently trying out cs50, and maybe after cs50, I might try learning c#  
+I am currently trying out cs50 (online)
 My website is <https://marko.win>  
 
 *i have no idea how to use markdown so... hope this works*
