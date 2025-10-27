@@ -8,11 +8,11 @@ My website is <https://marko.win>
 
 ### Progress on coding languages I know:
 
-- HTML: 100%
-- CSS: 50%
+- HTML: 50%
+- CSS: 10%
 - JavaScript: -10000000%
-- Python: 25%
-- C: 25%
+- Python: 1%
+- C: 8%
 
 #### A project I have made
 
