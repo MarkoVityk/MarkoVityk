@@ -17,3 +17,5 @@ My website is <https://marko.win>
 #### A project I have made
 
 - A website with a bunch of games I did not steal at all [link](https://github.com/MarkoVityk/markovityk.github.io)
+
+[thank you for visiting my account!](https://www.google.com)
